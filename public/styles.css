@@ -1,0 +1,27 @@
+body{
+  background-color: #F9F9F9;
+  border: 1px solid black;
+  max-width:100vw;
+  text-align: center;
+}
+
+.red{
+  color: red;
+}
+
+.title{
+  font-weight: 600;
+}
+
+.click{
+  background-color: #49e0c7;
+  padding: 10px;
+  border-radius: 5px;
+  width: 90px;
+  margin: auto;
+  cursor: pointer;
+}
+
+.click:hover{
+  background-color: #CDF0EA
+}
